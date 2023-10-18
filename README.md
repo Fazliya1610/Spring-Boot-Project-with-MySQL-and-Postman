@@ -42,7 +42,7 @@ This project is for learners and developers seeking a practical understanding of
 To get started with this project, you will need the following tools installed on your system:
 a. Spring Tools Suite (STS): Spring Tools Suite is a specialized integrated development environment (IDE) designed for Spring-based applications. You can download and install it from the official website.
 Website: https://spring.io/tools
-![Spring Tool Download Page]([URL](https://drive.google.com/file/d/1V6cQin-SLBGP56qhKptfMUHRZwFJOoay/view?usp=sharing))
+![Spring Tool Download Page](https://drive.google.com/file/d/1V6cQin-SLBGP56qhKptfMUHRZwFJOoay/view?usp=sharing)
  
 b. MySQL Workbench: MySQL Workbench is a visual database design and management tool for MySQL. Install it to facilitate database management and interactions.
 Website: https://dev.mysql.com/downloads/workbench/
